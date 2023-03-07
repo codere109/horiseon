@@ -10,3 +10,5 @@
 
 ## Task 
 Refactor the pre-code to fix any small issues on web page regarding the html semantics and css styling.
+
+![frist screenshot](./screenshots/Screenshot%202023-03-07%20at%2011.53.03%20AM.png?raw=true "Optional Title")
